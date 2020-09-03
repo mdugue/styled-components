@@ -122,7 +122,7 @@
     "lint-staged": "^6.0.0",
     "node-watch": "^0.4.1",
     "prettier": "1.9.2",
-    "puppeteer": "^0.13.0",
+    "puppeteer": "^1.13.0",
     "raf": "^3.4.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
